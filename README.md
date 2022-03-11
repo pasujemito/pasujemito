@@ -3,7 +3,7 @@
 
 <p align="left">
 <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="works on my machine" height="26" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="works on my machine" height="26" />
+<img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" alt="works on my machine" height="26" />
 </p>
 
 _@pasujemito__ - wait what? _/pasuːˈjɛmiːtɒ/_ - in abstract :poland: translation, _it works for me_
