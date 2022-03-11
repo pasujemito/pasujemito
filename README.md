@@ -7,6 +7,13 @@ _@pasujemito__ - wait what? _/pasuːˈjɛmiːtɒ/_ - in abstract :poland: transl
 
 
 ## 🔪 Toolbox (_not limited to_)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pasujemito&show_icons=true&theme=onedark" alt="pasujemito" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasujemito&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pasujemito" />
+</p>
+
+
+<p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/80px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -18,10 +25,10 @@ _@pasujemito__ - wait what? _/pasuːˈjɛmiːtɒ/_ - in abstract :poland: transl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pasujemito&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pasujemito" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=pasujemito&show_icons=true&theme=onedark" alt="pasujemito" />
+
 
 
 ## 🔗 Social
