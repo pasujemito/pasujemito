@@ -6,10 +6,10 @@
 <img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" alt="works on my machine" height="26" />
 </p>
 
-_@pasujemito__ - wait what? _/pasuːˈjɛmiːtɒ/_ - in abstract :poland: translation, _it works for me_
+_@pasujemito__ - wait what? `/pasuːˈjɛmiːtɒ/` - in abstract :poland: translation, _it works for me_
 
-> // ☁️ AWS Certified Cloud Engineer
-> // Tech Geek, SysOps Enthusiast, Culinary Habitué, ⛺ Adventurer
+> // ☁️ AWS Certified Cloud Engineer\
+> // Tech Geek, SysOps Enthusiast, Culinary Habitué, ⛺ Adventurer\
 > // 😈 SIMPLY DEV
 
 
