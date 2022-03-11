@@ -2,6 +2,7 @@
 # Hi 👋, I'm Damian
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)]()
 
 _@pasujemito__ - wait what? _/pasuːˈjɛmiːtɒ/_ - in abstract :poland: translation, _it works for me_
 
