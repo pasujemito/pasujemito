@@ -1,7 +1,6 @@
 
 # Hi 👋, I'm Damian
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)]()
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)]()
 
 _@pasujemito__ - wait what? _/pasuːˈjɛmiːtɒ/_ - in abstract :poland: translation, _it works for me_
