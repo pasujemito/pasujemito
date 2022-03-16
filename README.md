@@ -29,7 +29,7 @@ _@pasujemito__ - wait what? `/pasuːˈjɛmiːtɒ/` - in abstract :poland: transl
 
 <p align="left">
 <img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api?username=pasujemito&hide_border=true&show_icons=true&count_private=true&hide=issues,prs&theme=onedark" alt="pasujemito" />
-<img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api/top-langs?username=pasujemito&hide_border=true&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pasujemito" />
+<img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api/top-langs?username=pasujemito&hide_border=true&show_icons=true&locale=en&hide=liquid&layout=compact&theme=onedark" alt="pasujemito" />
 </p>
 
 ## 😶‍🌫️ Connect
