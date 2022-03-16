@@ -12,12 +12,7 @@ _@pasujemito__ - wait what? `/pasuːˈjɛmiːtɒ/` - in abstract :poland: transl
 > 😈 SIMPLY DEV
 
 
-## 🔪 Toolbox (_not limited to_)
-<p align="left">
-<img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api?username=pasujemito&hide_border=true&show_icons=true&count_private=true&hide=issues,prs&theme=onedark" alt="pasujemito" />
-<img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api/top-langs?username=pasujemito&hide_border=true&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pasujemito" />
-</p>
-
+## 🔪 Toolbox
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/80px-Amazon_Web_Services_Logo.svg.png" alt="aws" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
@@ -30,6 +25,11 @@ _@pasujemito__ - wait what? `/pasuːˈjɛmiːtɒ/` - in abstract :poland: transl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
+</p>
+
+<p align="left">
+<img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api?username=pasujemito&hide_border=true&show_icons=true&count_private=true&hide=issues,prs&theme=onedark" alt="pasujemito" />
+<img src="https://pasujemito-github-readme-stats-h6n9eh6z8-pasujemito.vercel.app/api/top-langs?username=pasujemito&hide_border=true&show_icons=true&locale=en&layout=compact&theme=onedark" alt="pasujemito" />
 </p>
 
 ## 😶‍🌫️ Connect
