@@ -8,7 +8,7 @@
 
 _@pasujemito__ - wait what? `/pasuːˈjɛmiːtɒ/` - in abstract :poland: translation, _it works for me_
 
-> ☁️ AWS Certified Cloud Engineer // Tech Geek, SysOps Enthusiast, Culinary Habitué, ⛺ Adventurer\
+> ☁️ AWS Certified Cloud Engineer // DevOps Engineer by day, 🔮Web3 tyro by night ⛺
 > 😈 SIMPLY DEV
 
 
