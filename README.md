@@ -11,7 +11,6 @@ _@pasujemito__ - wait what? `/pasuːˈjɛmiːtɒ/` - in abstract :poland: transl
 > ☁️ AWS Certified Cloud Engineer // DevOps Engineer by day, 🔮Web3 tyro by night ⛺
 > 😈 SIMPLY DEV
 
-
 ## 🔪 Toolbox
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/80px-Amazon_Web_Services_Logo.svg.png" alt="aws" height="40"/>
